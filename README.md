@@ -1,23 +1,5 @@
 # RoseDsigns – Creative Design & Digital Marketing Agency Website
 
-\<p align="center">
-&#x20; \<img src="public/images/rosedsigns-logo.png" alt="RoseDsigns Logo" width="180" />
-\</p>
-
-\<p align="center">
-&#x20; \*\*Ideas that make your brand bloom.\*\*
-\</p>
-
-\<p align="center">
-&#x20; A responsive, multi-page creative agency website built with React, TypeScript and Vite.
-\</p>
-
-\<p align="center">
-&#x20; [Live Website]\([https://rosedsigns-website.vercel.app/](https://rosedsigns-website.vercel.app/)) · [GitHub Repository]\([https://github.com/Ams1421/Rosedsigns-website](https://github.com/Ams1421/Rosedsigns-website))
-\</p>
-
----
-
 ## 1. Project Overview
 
 RoseDsigns is a multi-page creative agency website developed to present a creative design and digital marketing brand. The website introduces the agency, highlights its services, showcases portfolio concepts, explains its creative process and provides contact options for potential clients.
@@ -280,5 +262,3 @@ The Vercel configuration supports direct navigation to application routes.
 RoseDsigns demonstrates the development of a modern, responsive creative agency website using React, TypeScript and Vite. It combines brand presentation, service information, portfolio concepts, navigation and contact functionality in a cohesive multi-page experience.
 
 The project showcases practical skills in frontend development, responsive web design, component-based architecture, version control and production deployment.
-
-\<p align="center">   \*\*RoseDsigns – Ideas that make your brand bloom.\*\* \</p>
